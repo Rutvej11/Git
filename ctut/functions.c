@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//this is function tutorial
 int sum(int r, int t);
 void printstar(int n){
     for (int i = 0; i < n; i++)
